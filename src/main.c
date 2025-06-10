@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Read the README.md
+// Read the Github README
 
 int main(void)
 {
