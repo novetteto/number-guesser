@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Read the
+// Read the README.md
 
 int main(void)
 {
